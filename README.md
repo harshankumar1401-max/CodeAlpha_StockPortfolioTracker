@@ -1,0 +1,18 @@
+# Stock Portfolio Tracker
+
+A simple Python project that calculates total stock investment using hardcoded stock prices.
+
+## Features
+- User inputs stock names and quantities
+- Calculates total investment value
+- Saves portfolio summary to a text file
+
+## Technologies Used
+- Python
+- Dictionary
+- File Handling
+
+## How to Run
+
+```bash
+python stock_portfolio_tracker.py
